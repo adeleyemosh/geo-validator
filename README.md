@@ -1,4 +1,3 @@
-```markdown
 # Geo Coordinate Validator
 
 This Python script is designed to validate geographic coordinates (latitude and longitude) stored in a CSV or Excel file and save the results in a new CSV file. It uses the Geopy library to reverse geocode the coordinates and determine their validity.
@@ -67,4 +66,3 @@ python geo_coordinate_validator.py
 Follow the on-screen instructions to select an input file and view the results in the "output" folder.
 
 Feel free to use this script to validate geographic coordinates in your data.
-```
